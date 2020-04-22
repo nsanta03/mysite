@@ -1,0 +1,240 @@
+h2 {font-size: 88px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: left;
+    padding-bottom: 10px;
+    line-height: 1em;}
+
+h3 {font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    color: rgb(20, 62, 141);
+    font-size: 44px;
+    line-height: 1em;
+    text-align: left;}
+
+
+h4 {font-size: 100px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    text-align: center;
+    color: rgb(20, 62, 141) !important;}
+
+h5 {font-size: 44px;
+    font-weight: 300;
+    font-family: 'Montserrat';
+    font-weight: normal;
+    color: rgb(20, 62, 141);}  
+
+.text-one {font-family: 'News Cycle';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.4;
+    color: rgb(102, 102, 102);}
+
+.text-two {font-family: 'Varela Round';
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(51, 51, 51);
+    font-size: 18px;
+    text-align: center;}    
+
+.text-three {font-family: 'News Cycle';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.4;
+    color: rgb(20, 62, 141);}
+
+.text-four {font-weight: bold;
+    font-size: 14px;
+    font-weight: 700;
+    color: rgb(0, 2, 130) !important;
+    font-family: 'Varela Round';
+    font-style: normal;
+    line-height: 14px;
+    text-align: left;}
+
+.orange-container {background-color: rgb(255, 194, 34);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;} 
+
+.yellow-container {background-color: rgb(255, 194, 34);
+    border-top-color: rgb(255, 221, 0);
+    border-top-style: solid;
+    border-top-width: 9px;
+    border-right-color: rgb(255, 221, 0);
+    border-right-style: solid;
+    border-right-width: 9px;
+    border-bottom-color: rgb(255, 221, 0);
+    border-bottom-style: solid;
+    border-bottom-width: 9px;
+    border-left-color: rgb(255, 221, 0);
+    border-left-style: solid;
+    border-left-width: 9px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    padding-left: 52px;
+    padding-right: 52px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    background-position-x: 50%;
+    background-position-y: 50%;}
+
+.text-five {color: white;
+    text-decoration: underline;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: left;
+    font-family: Montserrat, helvetica, sans-serif;
+    line-height: 60px;}
+
+.text-six {font-style: normal;
+    font-weight: 400;
+    line-height: 1.4;
+    color: white;
+    text-decoration: underline;
+    font-size: 24px;
+    text-align: right;}
+
+.text-seven {font-weight: 300;
+    font-size: 25px;
+    margin-top: 20px;
+    font-family: 'Varela Round', sans-serif;
+    padding-bottom: 0;
+    font-style: normal;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+    color: rgb(20, 62, 141);}
+
+.text-eight {font-weight: bold;
+    font-size: 20px;
+    padding-top: 20px;
+    color: black;
+    padding-bottom: 7px;
+    font-family: 'News Cycle';
+    font-style: normal;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+    display: block;}
+
+.Nadira-Jackson.png {width: 70%;
+    min-width: 250px;
+    position: relative;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 500;}
+
+.nav-link-two {color: white;
+    font-size: 13px;
+    margin: 0;
+    padding: 5px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    vertical-align: baseline;
+    opacity: 1;
+    font-weight: 600;
+    font-family: 'News Cycle', sans-serif;
+    line-height: 1.7em;}
+
+.black-bottom-section {background: black;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    line-height: 1.7em;
+    font-weight: 500;
+    font-family: 'News Cycle', sans-serif;
+    box-sizing: border-box;
+    display: block;}
+
+.blue-bottom-section {background:rgb(20, 62, 141);}
+
+.text-nine {color: white;
+    font-size: 27px;
+    padding-bottom: 10px;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: left;}
+
+.text-ten {color: white;
+    font-family: 'News Cycle';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.4;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: left;
+    padding-bottom: 0;}
+
+.text-eleven {font-family: Varela Round;
+    font-size: 22px;
+    display: inline-block;
+    max-width: 140px;
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: left;
+    padding-bottom: 10px;
+    line-height: 1em;}
+
+.text-twelve {font-size: 12px;
+    line-height: 19px;
+    font-family: Montserrat;
+    color: white;
+    font-weight: 700;
+    display: inline-block;}
+
+.text-thirteen {display: block;
+    font-size: .813em;
+    letter-spacing: .5pt;
+    white-space: nowrap;
+    margin-top: 1px;
+    margin-right: 0px;
+    margin-bottom: 9px;
+    margin-left: 1px;
+    line-height: 1.9em;
+    font-family: Montserrat;
+    color: white;}
+
+.nav-link-one {font-size: 18px;
+    color: white;
+    font-family: Montserrat, helvetica, sans-serif;
+    line-height: 1.9em;
+    font-weight: 500;}
